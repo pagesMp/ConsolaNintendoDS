@@ -40,6 +40,7 @@
     background-color: tomato;
 
     border-radius: 2em 0em 0em 0em;
+    
 }
 
 .pantallaIzTop{
@@ -53,7 +54,8 @@
 
     display: flex;
     justify-content: center; 
-    align-items: center;      
+    align-items: center;    
+    box-shadow: inset 10px 10px 22px 0px rgba(0, 0, 0, 0.445);  
 
 }
 
