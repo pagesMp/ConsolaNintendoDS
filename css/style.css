@@ -1,0 +1,340 @@
+#body{
+
+    height: 100vh;
+
+    margin: 0em;
+    padding: 0em;
+
+    background-color: pink;
+
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+#consola{
+
+    height: 25em;
+    width: 75em;
+
+    background-color: rgba(2, 255, 15, 0);
+
+    margin: 0em;
+    padding: 0em;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+} 
+
+#pantallaIz{
+
+    height: 25em;
+    width: 7em;
+
+    background-color: tomato;
+
+    border-radius: 2em 0em 0em 0em;
+}
+
+.pantallaIzTop{
+
+    height: 8.4em;
+    width: 7em;
+
+    background-color: rgb(46, 42, 42);
+    
+    border-radius: 2em 0em 0em 0em;
+
+    display: flex;
+    justify-content: center; 
+    align-items: center;      
+
+}
+
+.izTopT{
+
+    height: 1em;
+    width: 1em;
+
+    margin-bottom: 0em;
+    padding: 0em;
+
+    border-radius: 0.2em;
+
+    background-color: rgb(93, 95, 95);    
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.438), 1px 1px 1px rgba(0, 0, 0, 0.541);   
+
+}
+
+.pantallaIzMid{
+
+    height: 8.4em;
+    width: 7em;
+    
+    background-color: rgb(46, 42, 42);
+
+    
+
+}
+
+.separacionMid{
+
+    height: 4em;
+    width: 7em;
+
+    
+    margin: 0em;
+    
+
+    background-color: rgb(46, 42, 42);  
+    
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.audioHolesIz{
+
+    height: 0.3em;
+    width: 0.3em;;
+
+    
+    margin: 0.5em;
+
+    background-color: rgb(0, 0, 0);
+
+    border-radius: 1em;
+
+}
+
+.audioHolesM{
+
+    height: 0.3em;
+    width: 0.3em;
+
+    
+    margin: 0.5em;
+
+    background-color: rgb(0, 0, 0);
+
+    border-radius: 1em;
+}
+
+.audioHolesDr{
+
+    height: 0.3em;
+    width: 0.3em;
+
+    
+    margin: 0.5em;
+
+    background-color: rgb(0, 0, 0);
+
+    border-radius: 1em;
+}
+
+.separacionMid2{
+
+    height: 2em;
+    width: 7em;
+
+    background-color: rgb(46, 42, 42);  
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.audioHolesIz{
+
+    height: 0.3em;
+    width: 0.3em;;
+
+    
+    margin: 0.5em;
+
+    background-color: rgb(0, 0, 0);
+
+    border-radius: 1em;
+
+}
+
+.audioHolesM{
+
+    height: 0.3em;
+    width: 0.3em;
+
+    
+    margin: 0.5em;
+
+    background-color: rgb(0, 0, 0);
+
+    border-radius: 1em;
+}
+
+.audioHolesDr{
+
+    height: 0.3em;
+    width: 0.3em;
+
+    
+    margin: 0.5em;
+
+    background-color: rgb(0, 0, 0);
+
+    border-radius: 1em;
+}
+
+.pantallaIzLow{
+
+    height: 8.2em;
+    width: 7em;
+    
+    background-color: rgb(46, 42, 42);
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    
+}
+
+.izTopL{
+
+    height: 1em;
+    width: 1em;
+
+    margin-bottom: 0em;
+    padding: 0em;
+
+    border-radius: 0.2em;
+
+    background-color: rgb(93, 95, 95); 
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.438), 1px 1px 1px rgba(0, 0, 0, 0.541);   
+
+}
+
+#pantallaMid{
+
+    height: 25em;
+    width: 20em;
+
+    background-color: rgb(46, 42, 42);
+}
+
+.pantallaMidTop{
+
+    height: 2em;
+    width: 20em;
+
+    background-color: rgb(46, 42, 42);
+
+}
+
+.pantallaMidCenter{
+
+    height: 21em;
+    width: 20em;
+    
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(59, 53, 47) 0%, rgb(73, 63, 56) 20%, rgba(109, 102, 93, 0.944) 35%, rgba(167,166,153,1) 100%);
+    box-shadow: inset 0px 0px 46px 14px rgba(20,20,20,1);
+
+    border-radius: 0.3em;
+
+
+    
+}
+
+.pantallaMidLow{
+
+    height: 2em;
+    width: 20em;
+    
+    background-color: rgb(46, 42, 42);
+
+}
+
+#pantallaDr{
+
+    height: 25em;
+    width: 8em;
+    
+    background-color: rgb(46, 42, 42);
+
+    border-radius: 0em 2em 0em 0em;
+
+}
+
+.pantallaDrTop{
+
+    height: 8.2em;
+    width: 8em;
+
+    background-color: rgb(46, 42, 42);
+
+    border-radius: 0em 2em 0em 0em;
+
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+
+}
+
+.drTopT{
+
+    height: 1em;
+    width: 1em;
+
+    margin-bottom: 0em;
+    padding: 0em;
+
+    border-radius: 0.2em;
+
+    background-color: rgb(93, 95, 95);
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.438), 1px 1px 1px rgba(0, 0, 0, 0.541);
+
+}
+
+
+.pantallaDrMid{
+
+    height: 8.2em;
+    width: 8em;
+    
+    background-color: rgb(46, 42, 42);
+
+}
+
+.pantallaDrLow{
+
+    height: 8.6em;
+    width: 8em;
+    
+    background-color: rgb(46, 42, 42);
+
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+
+}
+
+.drLowL{
+
+    height: 1em;
+    width: 1em;
+
+    margin-bottom: 0em;
+    padding: 0em;
+
+    border-radius: 0.2em;
+
+
+    background-color: rgb(93, 95, 95);
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.438), 1px 1px 1px rgba(0, 0, 0, 0.541); 
+
+}
