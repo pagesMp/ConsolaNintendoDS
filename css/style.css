@@ -471,7 +471,7 @@
    
 }
 
-.Dr1Iz{
+.dr1Iz{
 
     height: 2.5em;
     width: 0.8em;
@@ -496,7 +496,7 @@
 
 }
 
-.Dr2Dr{
+.dr2Dr{
 
     height: 2.5em;
     width: 0.8em;
@@ -510,3 +510,181 @@
 
 }
 
+#consolaL{
+
+    height: 20em;
+    width: 35em; 
+
+    background-color: rgb(132, 0, 255);
+
+    display: flex;
+    
+}
+
+.consolaLIz{
+
+    height: 20em;
+    width: 9em; 
+
+    background-color: rgb(0, 0, 0);
+
+}
+
+.lIzTop{
+
+    height: 4em;
+    width: 9em; 
+
+    background-color: rgb(170, 82, 82);
+
+}
+
+.lIzMid{
+
+    height: 6em;
+    width: 9em; 
+
+    background-color: rgb(57, 42, 42);
+
+}
+
+.lIzLow{
+
+    height: 10em;
+    width: 9em; 
+
+    background-color: rgb(123, 15, 15);
+
+}
+
+.consolaLMid{
+
+    height: 20em;
+    width: 17em; 
+
+    background-color: rgb(255, 0, 0);
+
+}
+
+.lMidTop{
+
+    height: 1em;
+    width: 17em; 
+
+    background-color: rgb(237, 103, 0);
+
+}
+
+.lMidCenter{
+
+    height: 16em;
+    width: 17em; 
+
+    background-color: rgb(205, 199, 195);
+
+}
+
+.lMidLow{
+
+    height: 3em;
+    width: 17em; 
+
+    background-color: rgb(237, 103, 0);
+
+}
+
+.consolaLDr{
+
+    height: 20em;
+    width: 9em; 
+
+    background-color: rgb(106, 255, 0);
+}
+
+.lDrtop{
+
+    height: 5em;
+    width: 9em;
+    
+    background-color: rgb(25, 0, 255);
+
+    display: flex;
+    justify-content: center;
+}
+
+.botonX{
+
+    height: 2em;
+    width: 2em; 
+
+    margin-top: 2.5em;
+
+    background-color: rgb(6, 6, 6);
+
+    border-radius: 2em;
+}
+
+.lDrMid{
+    height: 4em;
+    width: 9em; 
+
+    background-color: rgb(255, 0, 166);
+
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+.botonY{
+
+    height: 2em;
+    width: 2em; 
+
+    margin-top: 0.8em;
+
+    background-color: rgb(6, 6, 6);
+
+    border-radius: 2em;
+}
+
+.botonA{
+
+    height: 2em;
+    width: 2em;
+
+    margin-top: 0.8em;
+
+    background-color: rgb(6, 6, 6);
+
+    border-radius: 2em;
+}
+
+.lDrLow1{
+
+    height: 4em;
+    width: 9em; 
+
+    background-color: rgb(0, 234, 255);
+
+    display: flex;
+    justify-content:center;
+}
+
+.botonB{
+
+    height: 2em;
+    width: 2em;
+
+    background-color: rgb(6, 6, 6);
+
+    border-radius: 2em;
+
+}
+
+.lDrLow2{
+
+    height: 7em;
+    width: 9em; 
+
+    background-color: rgb(106, 255, 0); 
+}
