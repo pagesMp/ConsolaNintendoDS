@@ -356,6 +356,8 @@
 
     border-radius: 1.5em 0em 0em 1.5em;
 
+    box-shadow: -15px 0px 7px -10px rgba(0,0,0,0.75);
+
 }
 
 .centralIz2{
@@ -496,6 +498,7 @@
     background-color: rgb(46, 42, 42);
 
     border-radius: 0em 1.5em 1.5em 0em;
+    box-shadow: 15px 0px 7px -10px rgba(0,0,0,0.75);
 
 }
 
@@ -747,7 +750,7 @@
     width: 2em; 
 
     margin-top: 3em;
-
+    color: wheat;
     background-color: rgb(6, 6, 6);
 
     border-radius: 2em;
@@ -771,6 +774,7 @@
 
     margin-top: 0.8em;
 
+    color: wheat;
     background-color: rgb(6, 6, 6);
 
     border-radius: 2em;
@@ -782,6 +786,8 @@
     width: 2em;
 
     margin-top: 0.8em;
+
+    color: wheat;
 
     background-color: rgb(6, 6, 6);
 
@@ -804,10 +810,12 @@
     height: 2em;
     width: 2em;
 
+    color: wheat;
     margin-top: -0.5em;
     background-color: rgb(6, 6, 6);
 
     border-radius: 2em;
+    
 
 }
 
@@ -819,10 +827,13 @@
     background-color: rgb(46, 42, 42);
 
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-
+    flex-direction: row;
+    
+    
+    
     border-radius: 0em 0em 2em 0em;
+    
+    /* box-shadow: 12px 20px 18px -8px rgba(0,0,0,0.75); */
         
 }
 
@@ -832,9 +843,18 @@
     width: 1em;
     
     margin-left: 0.5em;
+    text-align: left;
+
+    
+    color: wheat;
     background-color: rgb(3, 3, 3); 
 
     border-radius: 1em;
+}
+
+.start{
+
+    color: wheat;
 }
 
 .botonSelect{
@@ -844,7 +864,16 @@
     
     margin-top: 0.5em;
     margin-left: 0.5em;
+    
+
+    color: wheat;
     background-color: rgb(3, 3, 3); 
 
     border-radius: 1em;
+}
+
+.select{
+
+
+    color: wheat;
 }
