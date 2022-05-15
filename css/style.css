@@ -5,27 +5,25 @@
     margin: 0em;
     padding: 0em;
 
-    background-color: pink;
-
     display: flex;
     justify-content: center;
     align-items: center;
         
 }
 
-#consola{
+#consolaT{
 
     height: 25em;
-    width: 75em;
+    width: 35em;
 
-    background-color: rgba(2, 255, 15, 0);
+    background-color: rgb(34, 211, 43);
 
     margin: 0em;
     padding: 0em;
 
     display: flex;
-    align-items: center;
     justify-content: center;
+    align-items: center;  
         
 } 
 
@@ -323,3 +321,43 @@
     box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.438), 1px 1px 1px rgba(0, 0, 0, 0.541); 
 
 }
+
+
+#consolaM{
+
+    height: 2.5em;
+    width: 35em; 
+
+    background-color: blueviolet;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ .barraCentralIz{
+
+    height: 2.5em;
+    width: 11.6em;
+
+    background-color: blue;  
+
+}
+
+.barraCentralMd{
+
+    height: 2.5em;
+    width: 11.7em;
+
+    background-color: rgb(43, 255, 0);  
+
+}
+
+.barraCentralDr{
+
+    height: 2.5em;
+    width: 11.7em;
+
+    background-color: rgb(255, 0, 0);  
+
+}
+
