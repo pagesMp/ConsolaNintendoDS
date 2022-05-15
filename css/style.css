@@ -16,7 +16,7 @@
     height: 25em;
     width: 35em;
 
-    background-color: rgb(34, 211, 43);
+    background-color: rgba(34, 211, 43, 0);
 
     margin: 0em;
     padding: 0em;
@@ -328,7 +328,7 @@
     height: 2.5em;
     width: 35em; 
 
-    background-color: blueviolet;
+    background-color: rgba(137, 43, 226, 0);
 
     display: flex;
     justify-content: center;
@@ -337,27 +337,176 @@
  .barraCentralIz{
 
     height: 2.5em;
-    width: 11.6em;
+    width: 8em;
 
-    background-color: blue;  
+    background-color: rgba(0, 0, 255, 0);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.centralIz1{
+
+    height: 2.5em;
+    width: 5.8em;
+
+    background-color: rgb(46, 42, 42);
+
+    border-radius: 1.5em 0em 0em 1.5em;
+
+}
+
+.centralIz2{
+
+    height: 2.5em;
+    width: 5.8em;
+
+    background-color: rgb(46, 42, 42);
 
 }
 
 .barraCentralMd{
 
     height: 2.5em;
-    width: 11.7em;
+    width: 19em;
 
-    background-color: rgb(43, 255, 0);  
+    background-color: rgb(46, 42, 42); 
+    
+    display: flex;
+    justify-content: center;
 
+}
+
+.centralMdIz{
+
+    height: 2.5em;
+    width: 7em;
+
+    background-color: rgb(46, 42, 42);
+
+    
+}
+
+.centralMd{
+
+    height: 2.5em;
+    width: 5em;
+
+    background-color: rgb(228, 21, 21);
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.audioHole{
+
+    height: 2.5em;
+    width: 2.2em;
+
+    background-color: rgb(45, 18, 255);
+
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+
+}
+.hole{
+
+    height: 2em;
+    width: 0.6em;
+
+    padding: 0em;
+    margin: 0em;
+
+    background-color: rgb(255, 255, 255); 
+
+    border-radius: 0.35em;
+
+}
+
+.micIMG{
+
+    height: 2.5em;
+    width: 2.8em;
+
+    background-color: rgb(58, 255, 18); 
+    display: flex;
+    justify-content: center;
+
+}
+
+.centralMdDr{
+
+    height: 2.5em;
+    width: 7em;
+
+    background-color: rgb(46, 42, 42);
 }
 
 .barraCentralDr{
 
     height: 2.5em;
-    width: 11.7em;
+    width: 8em;
 
-    background-color: rgb(255, 0, 0);  
+    background-color: rgba(253, 0, 0, 0);  
+
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+
+}
+
+.centralDr1{
+
+    height: 2.5em;
+    width: 5.8em;
+
+    background-color: rgb(46, 42, 42);
+    
+    display: flex;
+    justify-content: flex-end;
+   
+}
+
+.Dr1Iz{
+
+    height: 2.5em;
+    width: 0.8em;
+
+    padding: 0em;
+    margin: 0em;
+
+    background-color: rgba(128, 128, 128, 0.834);
+
+    border-radius: 0.4em;
+
+}
+
+.centralDr2{
+
+    height: 2.5em;
+    width: 5.8em;
+
+    background-color: rgb(46, 42, 42);
+
+    border-radius: 0em 1.5em 1.5em 0em;
+
+}
+
+.Dr2Dr{
+
+    height: 2.5em;
+    width: 0.8em;
+
+    padding: 0em;
+    margin-left: 0.1em;
+
+    background-color: rgb(151, 207, 20);
+
+    border-radius: 0.4em;
 
 }
 
